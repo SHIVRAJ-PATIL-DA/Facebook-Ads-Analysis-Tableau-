@@ -1,8 +1,10 @@
 # Facebook-Ads-Analysis-Tableau-
 Overview
+
 This repository contains a Tableau dashboard for analyzing Facebook Ads data. The dashboard provides key insights into page performance, audience engagement, and post analytics, enabling data-driven decision-making for social media strategies.
 
 Features
+
 Page Insights: Track page likes, followers, and overall engagement trends.
 Post Performance: Analyze individual post metrics, including reach, impressions, and interactions.
 Audience Demographics: Understand follower distribution by age, gender, and location.
@@ -12,6 +14,7 @@ Financial and Efficiency Metrics: Assess cost-effectiveness and return on invest
 Key Performance Indicators (KPIs)
 
 Total Metrics:
+
 Total Cost
 Total Impressions
 Total Link Clicks
@@ -23,6 +26,7 @@ Total Website Conversions (Leads, Purchases, Value)
 Total Campaigns
 
 Calculated Metrics:
+
 Avg Purchase Value: Total Website Purchases Value / Total Website Purchases
 Cost per People Reached: Total Cost / Total People Reached
 CPA (Cost per Action): Total Cost / Total Social Interactions
@@ -40,9 +44,11 @@ Social Interactions per Impression: Total Social Interactions / Total Impression
 Total Margin: Total Website Purchases Value - Total Cost
 
 Requirements
+
 To view and interact with this dashboard, you need:
 Tableau Desktop or Tableau Public for a free alternative
 The provided Facebook Ads Analysis Dashboard (.twbx) file
 
 Contact
+
 For questions or suggestions, reach out to SHIVRAJ PATIL at Shivrajspatil1251@gmail.com
